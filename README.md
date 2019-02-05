@@ -12,4 +12,8 @@ The goal by taking this goal is to gain a deeper understanding of algorithms and
 
 ###### Section 5 Problem Solving Patterns.
 
+Note: All this problems have been solve without checking the answer first, Unless noted in each
+entry.
+
 - Anagrams using Fequency Counters.
+- Count Unique Values using Multiple Pointers
