@@ -10,8 +10,8 @@ const countUniqueValues = (array) => {
     return 0;
   }
 
-  let = i = 0;
-  let = j = 1;
+  let i = 0;
+  let j = 1;
   while(j < array.length) {
     if (array[i] === array[j]) {
       j++;
@@ -22,7 +22,7 @@ const countUniqueValues = (array) => {
     }
   }
   return i + 1;
-}
+};
 
 // Test Examples
 console.log('Should be 2: ', countUniqueValues([1,1,1,1,1,2]));
